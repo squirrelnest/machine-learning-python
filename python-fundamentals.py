@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Welcome to Python for Machine Learning!
 # Let's begin reviewing some features of python Below
 # The instructions on the right contain additional information that may
